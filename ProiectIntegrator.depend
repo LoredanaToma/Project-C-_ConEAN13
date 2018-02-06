@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488218227 source:e:\proiecte2016\proiectintegrator\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
